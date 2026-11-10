@@ -1,4 +1,4 @@
-# Adding your card to the hacker directory
+# Adding your card to the hacker directory.
 
 Hey! Welcome. This guide assumes you have **never made a GitHub pull
 request before** — no assumed knowledge, no skipped steps. If you get
